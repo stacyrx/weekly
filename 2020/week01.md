@@ -1,3 +1,3 @@
 # 2020 第一周
 
-![](./test.jpg)
+![](https://raw.githubusercontent.com/stacyrx/weekly/master/2020/test.jpg)
